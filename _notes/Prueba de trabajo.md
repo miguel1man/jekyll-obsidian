@@ -1,12 +1,12 @@
 ---
-title: "Minería Blockchain"
+title: "Proof of work"
 tags:
 - Minería
 - Prueba-de-trabajo
 - Blockchain
 ---
 
-## Proof of work
+## Prueba de trabajo
 Es un método de consenso entre los validadores de una blockchain.
 
 ## Mineros
