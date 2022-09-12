@@ -4,6 +4,9 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*Sobre mí*
 
-Feel free to tell the world about what you love! 😍
+En mi celular tengo cientos de apuntes sobre Desarrollo Web, frontend, UI, blockchain. 
+Pero… ¿De qué sirve el conocimiento si no lo comparto?
+
+https://github.com/Miguel-Huaman/jekyll-obsidian
