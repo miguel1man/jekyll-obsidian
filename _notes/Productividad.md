@@ -1,7 +1,5 @@
 ---
 title: "Productividad"
-Tags:
-- Procastinación
 ---
 
 ## Procastinación
@@ -9,3 +7,6 @@ Tags:
 
 ## Planificación
 - [[Planificar el fracaso]]
+
+## Apps
+- [[Obsidian|Obsidian.md]]

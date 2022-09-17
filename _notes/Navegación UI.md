@@ -12,5 +12,3 @@ title: "Navegación UI"
 - ¿Cómo los usuario van a identificar al contenido?
 - Clasificar y definir elementos en la interfaz.
 - ¿Cuáles son las acciones que más me interesa mostrar al usuario?
-
-#UI

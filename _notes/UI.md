@@ -7,5 +7,3 @@ User Interface. Interfaz de usuario.
 
 ## Buenas prácticas
 - [[Navegación UI]]
-
-#UI
