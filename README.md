@@ -2,7 +2,7 @@
 
 En mi celular tengo cientos de apuntes sobre Desarrollo Web Frontend. Pero… ¿De qué sirve el conocimiento si es que no se comparte?
 
-https://jekyll-obsidian.netlify.app/
+https://miguelhuaman.com
 
 - Based on Jekyll, a static website generator
 - Supports Roam-style double bracket link syntax to other notes
