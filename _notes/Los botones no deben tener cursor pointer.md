@@ -8,3 +8,5 @@ title: "Los botones no deben tener cursor pointer"
 Enlaces:
 - https://www.youtube.com/watch?v=AnTNN_QlFvQ
 - https://adamsilver.io/blog/buttons-shouldnt-have-a-hand-cursor/
+
+#UX
