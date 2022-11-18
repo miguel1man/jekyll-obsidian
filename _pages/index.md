@@ -20,9 +20,6 @@ Temas de los que me encanta conversar:
 ## [[Frontend|Desarrollo Frontend 💻]]
 - [[React]]
 
-## Diseño 🎨
-- [[UX]] y [[UI]].
-
 ## [[Productividad|Productividad 🎯]]
 - [[Remedios para la procastinación|¿Cómo vencer la procastinación?]]
 
